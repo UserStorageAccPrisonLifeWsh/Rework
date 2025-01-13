@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("http://localhost:3000/library"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/UserStorageAccPrisonLifeWsh/Rework/refs/heads/main/library.lua"))()
 local listing = loadstring(game:HttpGet("http://localhost:3000/listing"))()
 
 print(library)
